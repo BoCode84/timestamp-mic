@@ -1,0 +1,19 @@
+{
+  "name": "Timestamp Microservice",
+  "version": "1.0.0",
+  "description": "Timestamp Microservice Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Bojan Cvjetkovic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "moment": "^2.22.1",
+    "body-parser": "^1.18.3",
+    "pug": "^2.0.3"
+  }
+}
